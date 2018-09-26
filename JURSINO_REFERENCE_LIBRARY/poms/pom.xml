@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>JURSINO_REFERENCE_LIBRARY Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <talend.project.name>JURSINO_REFERENCE_LIBRARY</talend.project.name>
     <encoding>UTF-8</encoding>
